@@ -8,4 +8,4 @@
 |4|[Logistic Regression](https://github.com/Sejong-Kaggle-Study-3rd/Kim_Jisoo/blob/e97883bfcd5c998444181c2a3822e2c8249f5d32/Logistic%20Regression.md)||[1](https://youtu.be/uT3hiE7xUtE) / [2](https://youtu.be/d-vouzSM5xw) / [3](https://youtu.be/F5Zuy2oEZKo)|| 
 |5|[판별분석](contents/판별분석.pdf)||[1](https://youtu.be/YUQF5veIvxE) / [2](https://www.youtube.com/watch?v=K1Iw_ED2inY)|[공분산](https://www.youtube.com/watch?v=YEdscCNsinU) / [공분산 행렬 구하기](https://youtu.be/152tSYtiQbw) / [Data Augmentation]()|
 |6|[의사결정나무](contents/[기계학습][9주차] 의사결정나무_이론.pdf)||[1]() / [2]() / [3]() / [4]()||  
-|7|[SVM]()||[1]() / [2]() / [3]()||
+|7|[SVM](contents/10주차_SVM(기계학습)_이론-1.pdf)||[1]() / [2]() / [3]()||
