@@ -9,4 +9,5 @@
 |5|[판별분석](contents/판별분석.pdf)||[1](https://youtu.be/YUQF5veIvxE) / [2](https://www.youtube.com/watch?v=K1Iw_ED2inY)|[공분산](https://www.youtube.com/watch?v=YEdscCNsinU) / [공분산 행렬 구하기](https://youtu.be/152tSYtiQbw) / [Data Augmentation]()|
 |6|[의사결정나무](contents/의사결정나무.pdf)||[1](https://youtu.be/CC96qKl6etU) / [2](https://youtu.be/19eT1vJFymU) / [3](https://youtu.be/1uGYKJVUdtY) / [4](https://youtu.be/dVAYrDd6P6A)||  
 |7|[SVM](contents/10주차_SVM(기계학습)_이론-1.pdf)||[1](https://youtu.be/7kvkkjkloKQ) / [2](https://youtu.be/p7F5b1oJmWM) / [3](https://youtu.be/vkWX4SSDI94)||
-|8|[차원축소]()||[1](https://youtu.be/M_0Lcw2yAM0) / [2](https://youtu.be/CnQJ6x5sSrk) / [3](https://youtu.be/vkWX4SSDI94)||
+|8|[군집화]()||[1](https://youtu.be/gGX9YwRcvQc) / [2](https://youtu.be/Q93HFGHRLGg) / [3](https://youtu.be/rRAEnrZRDF8)||
+|9|[차원축소]()||[1](https://youtu.be/M_0Lcw2yAM0) / [2](https://youtu.be/CnQJ6x5sSrk) / [3](https://youtu.be/vkWX4SSDI94)||
