@@ -12,4 +12,5 @@
 |8|[군집화]()||[1](https://youtu.be/gGX9YwRcvQc) / [2](https://youtu.be/Q93HFGHRLGg) / [3](https://youtu.be/rRAEnrZRDF8)||
 |9|[차원축소](contents/12주차_차원축소_이론.pdf)||[1](https://youtu.be/M_0Lcw2yAM0) / [2](https://youtu.be/CnQJ6x5sSrk) / [3](https://youtu.be/vkWX4SSDI94)||
 |10|[교차검증&앙상블](contents/교차검증_앙상블.md)||[1](https://youtu.be/P8-1F5Z1050) / [2](https://youtu.be/_LIVtcBQyfU)||
-
+|11|[선형회귀]()||[1]() / [2]()||
+|12|[선형분류](contents/교차검증_앙상블.md)||[1](https://youtu.be/jv0OE1SRsX4) / [2](https://youtu.be/WnZU1GyI0yo) / [3](https://youtu.be/4rH3jhyUsGI) / [4](https://youtu.be/7Eu2-hj-o9g)||
